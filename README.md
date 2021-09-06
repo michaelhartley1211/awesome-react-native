@@ -972,7 +972,6 @@ Components and native modules.
 * [react-native-permissions ★1118](https://github.com/yonahforst/react-native-permissions) - Check and request all permissions with a single api
 * [react-native-keychain ★992](https://github.com/oblador/react-native-keychain) - Keychain Access for React Native
 * [react-native-touch-id ★902](https://github.com/naoufal/react-native-touch-id) - React Native authentication with the native Touch ID popup.
-* [react-native-contacts ★882](https://github.com/rt2zz/react-native-contacts) - React Native Contacts (android & ios)
 * [react-native-communications ★871](https://github.com/anarchicknight/react-native-communications) - Easily call, email, text or iMessage someone in React Native
 * [react-native-onesignal ★871](https://github.com/geektimecoil/react-native-onesignal) - React Native Library for OneSignal Push Notifications Service (iOS + Android)
 * [react-native-in-app-utils ★743](https://github.com/chirag04/react-native-in-app-utils) - A react-native wrapper for handling in-app payments.
@@ -997,7 +996,6 @@ Components and native modules.
 * [react-native-ble ★157](https://github.com/jacobrosenthal/react-native-ble) - React Native BLE using noble api surface
 * [react-native-haptic ★137](https://github.com/charlesvinette/react-native-haptic) - iOS 10 + haptic feedback for React Native applications
 * [react-native-pinch ★130](https://github.com/localz/react-native-pinch) - SSL pinning for react native
-* [react-native-unified-contacts ★120](https://github.com/joshuapinter/react-native-unified-contacts) - React Native iOS 9+ Contacts (ios)
 * [react-native-callkit ★94](https://github.com/ianlin/react-native-callkit) - iOS 10 CallKit framework for React Native
 * [react-native-discovery ★89](https://github.com/yonahforst/react-native-discovery) - Discover nearby devics using BLE. Turn iOS and Android devices into beacons
 * [react-native-passcode-auth ★87](https://github.com/naoufal/react-native-passcode-auth) - React Native authentication with iOS Passcode.
@@ -1030,7 +1028,6 @@ Components and native modules.
 * [react-native-ssl-pinning ★20](https://github.com/MaxToyberman/react-native-ssl-pinning) - React Native SSL pinning using OkHttp 3 on Android, and AFNetworking on iOS
 * [react-native-localsearch ★17](https://github.com/wmcmahan/React-Native-LocalSearch) - React Native Module for MapKit Local Search
 * [rn-secure-storage ★17](https://github.com/talut/rn-secure-storage) - Secure Storage for React Native (Android & iOS)
-* [react-native-contacts-rx ★14](https://github.com/JeanLebrument/react-native-contacts-rx) - react-native-contacts counterpart that include the support of RxJS.
 * [react-native-mipush ★13](https://github.com/cpunion/react-native-mipush) - MiPush for React Native
 * [react-native-device-angles ★12](https://github.com/cristianszwarc/RNDeviceAngles) - Get rotation information in degrees (pitch, yaw, roll) - ios
 * [react-native-detect-device ★11](https://github.com/peachmeco/react-native-detect-device) - Detect a device on iOS or android in react-native.
@@ -1567,27 +1564,6 @@ Assortment of conference and training videos.
 * Udemy.com: [Create Your First React Native App](https://www.udemy.com/create-your-first-react-native-app/?couponCode=AWESOME-REACT-NATIVE) - Introduction to building a React Native app and learning the foundational pieces.
 * Handlebarlabs.com: [Learn React Native + Meteor](http://reactnativemeteor.com) - Comprehensive course & community on building an application with React Native and Meteor.
 * Udemy.com: [Automate Your React Native Releases with Fastlane & Bitrise](https://www.udemy.com/automate-your-react-native-releases-with-fastlane-and-bitrise/?couponCode=AWESOME-REACT-NATIVE) - Learn step-by-step how to release your React Native applications into Stores automatically by using Fastlane & Bitrise.
-
-## Blogs
-
-* [React Native Training](https://medium.com/react-native-training)
-* [Use React Native Blog](http://www.reactnative.com/)
-* [Facebook Code Blog](https://code.facebook.com/)
-* [The Bakery](http://blog.thebakery.io/) - JavaScript, React, React Native posts.
-* [Christopher Chedeau aka Vjeux](http://blog.vjeux.com/)
-* [Brent Vatne](http://brentvatne.ca/)
-* [Kyle Corbitt](https://corbt.com/posts/) - Cofounder at Emberall.
-* [Made with React](http://madewithreact.com/) - Showcase of apps using React or React Native.
-* [Spencer Carli](https://medium.com/@spencer_carli)
-* [Official React Native Blog](http://facebook.github.io/react-native/blog/)
-* [reactnative.gallery](https://reactnative.gallery/) - Show and tell for React Native developers
-* [Red Shift - Infinite Red](https://shift.infinite.red/) - Lots of React Native content
-* [Ideamotive's Blog](https://www.ideamotive.co/blog/tag/react-native) - Blog about React Native
-
-## Newsletters
-
-* [React Native Now](https://reactnativenow.com)
-* [React Native Newsletter](http://reactnative.cc)
 
 ## Releases
 
